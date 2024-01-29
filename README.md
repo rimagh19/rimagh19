@@ -32,8 +32,6 @@
   -  **Raqmoon:** A startup company.
   -  **Envision:** My Senior Project.
 
-- ☁️ I've keen interest in AI. 
-
 - 💬 Ask me about **Full stack Developmen & Web Design**
 
 - 📫 Feel free to reach me out **rimaAliDev@gmail.com**
