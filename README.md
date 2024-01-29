@@ -28,7 +28,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **NextJS, FastAPI, Nodejs, MongoDB**
 
-- 🌱 I’m currently working on
+- 🌱 My current projects
   -  **Raqmoon:** A startup company.
   -  **Envision:** My Senior Project.
 
