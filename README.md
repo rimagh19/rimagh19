@@ -1,25 +1,5 @@
-# Hi there, I'm [Your Name] 
-
-## About Me
+# Welcome to my profile 👋
 
 
-
-## Experience
-
-
-## Skills
-
-
-## Projects
-
-
-## Contributions
-
-
-## Connect with Me
-
-## What I'm Learning
-
-## Reading List
-
-## Fun Facts
+I am Rima Ali, a full stack developer and web designer, a CS student graduating from King Abdulaziz University in 2024.
+[](https://github-readme-streak-stats.herokuapp.com/?user=rimagh19)https://github-readme-streak-stats.herokuapp.com/?user=rimagh19
