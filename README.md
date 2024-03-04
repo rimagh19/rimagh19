@@ -10,7 +10,7 @@
 </div>
 
 
-![snake animation](https://github.com/RIMA_T/RIMA_T/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/rimagh19/rimagh19/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!--h2 without bottom border-->
