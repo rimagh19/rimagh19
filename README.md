@@ -10,11 +10,7 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/RIMA_T/RIMA_T/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+![snake animation](https://github.com/RIMA_T/RIMA_T/blob/output/github-contribution-grid-snake2.svg)
 
 
 <!--h2 without bottom border-->
