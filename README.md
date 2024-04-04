@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rima Ali</h1>
-<h3 align="center">A backend developer - CS student at KAU</h3>
+<h3 align="center">A full stack developer - CS student at KAU</h3>
 
 
 - 🔭 I’m currently working on **Envision (Senior Project) and Raqmoon (Startup)**
